@@ -25,8 +25,8 @@ jobs:
           SONAR_HOST_URL: https://sonarcloud.io
         with:
           args: >
-            -Dsonar.projectKey=YOUR_PROJECT_KEY
-            -Dsonar.organization=YOUR_ORG_NAME
+            -Dsonar.projectKey=adarshvalere_fixure-test-app
+            -Dsonar.organization=adarshvalere
 # # This workflow uses actions that are not certified by GitHub.
 # # They are provided by a third-party and are governed by
 # # separate terms of service, privacy policy, and support
